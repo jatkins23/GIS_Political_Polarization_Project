@@ -8,4 +8,4 @@ My hypothesis was that places that are more geographically polarized (precincts 
 
 More importantly, the goal was to better familiarize myself with tools like the Twitter Search API (particularly with regards to geodata), Google Geocoder, Sentiment Analysis, ArcMAp, and precinct-level election data, as well as to work on my GIS and coding skills.
 
-Please view the accompanying paper or final poster for a more elaborate discussion of the results (however, both were unfortunately rushed because of the massive amount of time spent dealing with the intricacies/limitations of the free versions of the Twitter API and Google Geocoder).
+Please view the accompanying paper or final poster for a more elaborate discussion of the results.
